@@ -6,6 +6,7 @@
 
 ## 📖 01_Hello World
 
+- Estrutura básica
 - Conhecendo estrutura
 
 ## 📖 Fundamentos
