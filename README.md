@@ -14,3 +14,9 @@
 - Componentes
 - Estilização
 - Data Binding
+
+## 📖 Data Binding
+
+- Property Binding e Interpolação
+- Class e Style binding
+- Event binding
