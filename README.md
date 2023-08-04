@@ -23,3 +23,4 @@
 - Two-way data binding
 - Input properties
 - Output properties
+- Ciclo de vida (life-cycle) do Componente

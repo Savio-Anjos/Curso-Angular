@@ -1,2 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 @import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+section {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+article {
+  border-top: 3px solid red;
+  margin-bottom: 80px;
+}
