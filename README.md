@@ -21,3 +21,4 @@
 - Class e Style binding
 - Event binding
 - Two-way data binding
+- Input properties
