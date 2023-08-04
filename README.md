@@ -22,3 +22,4 @@
 - Event binding
 - Two-way data binding
 - Input properties
+- Output properties
