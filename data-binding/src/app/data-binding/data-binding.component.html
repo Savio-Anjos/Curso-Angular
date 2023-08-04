@@ -17,7 +17,7 @@
   </article>
 
   <div class="divisor"></div>
-  <!--------------------------------------------------------------------------->
+  <!---------------------------------------------------------------------------------------------------------->
 
   <article>
     <h3>Class e Style Binding</h3>
@@ -78,7 +78,7 @@
   </article>
 
   <div class="divisor"></div>
-  <!--------------------------------------------------------------------------->
+  <!---------------------------------------------------------------------------------------------------------->
 
   <article>
     <h3>Event Biding</h3>
@@ -108,6 +108,28 @@
         [class.highlight]="isMouseOver"
         >Passe o mouse sobre mim</span
       >
+    </div>
+  </article>
+</section>
+
+<section class="two-way-binding">
+  <article>
+    <h3>Two-way data binding</h3>
+    <div>
+      <input type="text" [value]="nome" />
+
+      <input type="text" [(ngModel)]="nome" (ngModelChange)="nome = $event" />
+
+      <div>
+        <input type="text" [(ngModel)]="pessoa.nome" />
+        <input type="text" [(ngModel)]="pessoa.idade" />
+
+        <p>
+          Meu nome é {{ pessoa.nome }} e tenho {{ pessoa.idade }} anos de idade.
+        </p>
+      </div>
+
+      <p>Você digitou: {{ nome }}</p>
     </div>
   </article>
 </section>
