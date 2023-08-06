@@ -30,3 +30,4 @@
 - Diretiva ngIf
 - Diretiva ngSwitchCase
 - Diretiva ngFor
+- Diretiva Class
