@@ -28,3 +28,4 @@
 ## 📖 Diretivas
 
 - Diretiva ngIf
+- Diretiva ngSwitchCase
