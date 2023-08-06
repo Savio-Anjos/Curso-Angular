@@ -1,13 +1,13 @@
 import { TestBed } from '@angular/core/testing';
 
-import { DiretivaIfService } from './diretiva-if.service';
+import { DiretivaNgifService } from './diretiva-ngif.service';
 
-describe('DiretivaIfService', () => {
-  let service: DiretivaIfService;
+describe('DiretivaNgifService', () => {
+  let service: DiretivaNgifService;
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    service = TestBed.inject(DiretivaIfService);
+    service = TestBed.inject(DiretivaNgifService);
   });
 
   it('should be created', () => {
