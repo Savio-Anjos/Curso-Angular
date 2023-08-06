@@ -29,3 +29,4 @@
 
 - Diretiva ngIf
 - Diretiva ngSwitchCase
+- Diretiva ngFor
