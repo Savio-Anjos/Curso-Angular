@@ -24,3 +24,7 @@
 - Input properties
 - Output properties
 - Ciclo de vida (life-cycle) do Componente
+
+## 📖 Diretivas
+
+- Diretiva ngIf
