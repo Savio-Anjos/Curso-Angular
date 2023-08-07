@@ -9,13 +9,14 @@ import { CursosService } from './cursos.service';
 })
 export class CursosComponent {
   cursos: string[] = [];
-  cursoService: CursosService;
+  // cursoService: CursosService;
 
-  constructor() {
-    this.cursoService = new CursosService();
+  constructor(private _cursosService: CursosService) {
+    // this.cursoService = new CursosService();
+    //this.cursoService = _cursosService;
   }
 
   ngOnInit() {
-    this.cursos = this.cursoService.getCursos();
+    this.cursos = this._cursosService.getCursos();
   }
 }
