@@ -32,3 +32,4 @@
 - Diretiva ngFor
 - Diretiva ngClass
 - Diretiva ngStyle
+- Operador Elvis
