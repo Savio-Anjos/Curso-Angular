@@ -35,3 +35,4 @@
 - Operador Elvis
 - Ng-Content
 - Criando uma diretiva de atributo: ElementRef e Renderer
+- HostListener e HostBinding
