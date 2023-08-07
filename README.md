@@ -37,3 +37,4 @@
 - Criando uma diretiva de atributo: ElementRef e Renderer
 - HostListener e HostBinding
 - Input e Property Binding
+- Criando uma diretiva de estrutura (ngElse)
