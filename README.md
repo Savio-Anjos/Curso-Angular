@@ -36,3 +36,4 @@
 - Ng-Content
 - Criando uma diretiva de atributo: ElementRef e Renderer
 - HostListener e HostBinding
+- Input e Property Binding
