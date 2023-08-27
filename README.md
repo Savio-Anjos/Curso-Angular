@@ -45,3 +45,7 @@
 
 - Injeção de Dependência (DI)
 - Escopo de instâncias de serviços e módulos
+
+## 📖 Pipes
+
+- Pipes (usando pipes, parâmetros e pipes aninhados)
