@@ -11,12 +11,16 @@ export class CursosComponent {
   cursos: string[] = [];
   // cursoService: CursosService;
 
-  constructor(private _cursosService: CursosService) {
+  constructor(private cursosService: CursosService) {
     // this.cursoService = new CursosService();
     //this.cursoService = _cursosService;
   }
 
   ngOnInit() {
-    this.cursos = this._cursosService.getCursos();
+    this.cursos = this.cursosService.getCursos();
+
+    this.cursosService.emitirCursoCriado.subscribe((curso) =>
+      console.log(curso)
+    );
   }
 }
