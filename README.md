@@ -48,4 +48,4 @@
 
 ## 📖 Pipes
 
-- Pipes (usando pipes, parâmetros e pipes aninhados)
+- Pipes (usando pipes, parâmetros e pipes aninhados),
