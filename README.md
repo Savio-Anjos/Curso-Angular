@@ -52,3 +52,4 @@
 - Criando um Pipe
 - Aplicando Locale (internacionalização) nos Pipes
 - Criando um Pipe Puro
+- Criando um Pipe Impuro
