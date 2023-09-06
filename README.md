@@ -50,3 +50,4 @@
 
 - Pipes (usando pipes, parâmetros e pipes aninhados)
 - Criando um Pipe
+- Aplicando Locale (internacionalização) nos Pipes
