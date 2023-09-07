@@ -58,3 +58,4 @@
 ## 📖 Rotas
 
 - Configurando rotas simples
+- RouterLink: definindo rotas no template
