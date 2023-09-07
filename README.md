@@ -59,3 +59,4 @@
 
 - Configurando rotas simples
 - RouterLink: definindo rotas no template
+- Aplicando CSS em rotas ativas
