@@ -61,3 +61,4 @@
 - RouterLink: definindo rotas no template
 - Aplicando CSS em rotas ativas
 - Definindo e extraindo parâmetros de roteamento
+- Escutando mudanças nos parâmetros de roteamento
