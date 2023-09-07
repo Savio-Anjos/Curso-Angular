@@ -56,3 +56,5 @@
 - Pipes: Async (Assíncrono)
 
 ## 📖 Rotas
+
+- Configurando rotas simples
