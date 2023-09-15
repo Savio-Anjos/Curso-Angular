@@ -62,3 +62,4 @@
 - Aplicando CSS em rotas ativas
 - Definindo e extraindo parâmetros de roteamento
 - Escutando mudanças nos parâmetros de roteamento
+- Rotas Imperativas: Redirecionamento via código
