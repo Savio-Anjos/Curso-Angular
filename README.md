@@ -63,4 +63,5 @@
 - Definindo e extraindo parâmetros de roteamento
 - Escutando mudanças nos parâmetros de roteamento
 - Rotas Imperativas: Redirecionamento via código
-- Rotas: Definindo e extraindo parâmetros de url (query)
+- Definindo e extraindo parâmetros de url (query)
+- Criando um módulo de rotas (obs: Desnecessário atualmente)
