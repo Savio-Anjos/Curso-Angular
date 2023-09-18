@@ -65,3 +65,4 @@
 - Rotas Imperativas: Redirecionamento via código
 - Definindo e extraindo parâmetros de url (query)
 - Criando um módulo de rotas (obs: Desnecessário atualmente)
+- Criando um módulo de funcionalidade
