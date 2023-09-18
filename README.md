@@ -66,3 +66,4 @@
 - Definindo e extraindo parâmetros de url (query)
 - Criando um módulo de rotas (obs: Desnecessário atualmente)
 - Criando um módulo de funcionalidade
+- Criando um módulo de rotas de funcionalidade
