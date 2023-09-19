@@ -68,3 +68,4 @@
 - Criando um módulo de funcionalidade
 - Criando um módulo de rotas de funcionalidade
 - Rotas Filhas
+- Rotas Filhas: desenvolvendo as telas
