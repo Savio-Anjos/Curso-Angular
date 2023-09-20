@@ -71,3 +71,4 @@
 - Rotas Filhas: desenvolvendo as telas
 - Dica de Performance: Carregamento sob demanda (lazy loading)
 - Tela de Login e como não mostrar o Menu (NavBar)
+- Usando Guarda de Rotas: CanActivate
