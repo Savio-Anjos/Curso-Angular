@@ -6,12 +6,14 @@ import { LoginComponent } from './login/login.component';
 import { NgModule } from '@angular/core';
 import { AuthService } from './login/auth.service';
 import { FormsModule } from '@angular/forms';
-import { AuthGuard } from './guards/auth-guard';
+import { AuthGuard } from './guards/auth.guard';
+import { CursosGuard } from './guards/cursos.guard';
+import { AlunosGuard } from './guards/alunos.guard';
 
 @NgModule({
   declarations: [AppComponent, HomeComponent, LoginComponent],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
-  providers: [AuthService, AuthGuard],
+  providers: [AuthService, AuthGuard, CursosGuard, AlunosGuard],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
