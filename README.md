@@ -69,3 +69,4 @@
 - Criando um módulo de rotas de funcionalidade
 - Rotas Filhas
 - Rotas Filhas: desenvolvendo as telas
+- Dica de Performance: Carregamento sob demanda (lazy loading)

@@ -28,7 +28,7 @@ export class CursoDetalheComponent {
       this.curso = this.cursoService.getCurso(this.id);
 
       if (this.curso == null) {
-        this.router.navigate(['/naoEncontrado']);
+        this.router.navigate(['/cursos/naoEncontrado']);
       }
     });
   }
