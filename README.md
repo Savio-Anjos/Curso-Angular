@@ -73,3 +73,4 @@
 - Tela de Login e como não mostrar o Menu (NavBar)
 - Usando Guarda de Rotas: CanActivate
 - Usando Guarda de Rotas: CanActivateChild
+- Usando Guarda de Rotas: CanDeactivate
