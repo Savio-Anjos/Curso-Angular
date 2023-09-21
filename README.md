@@ -75,3 +75,4 @@
 - Usando Guarda de Rotas: CanActivateChild
 - Usando Guarda de Rotas: CanDeactivate
 - Usando Guarda de Rotas: CanDeactivate com Interface Genérica
+- Usando Guarda de Rotas: Resolve: carregando dados antes da rota ser ativada
