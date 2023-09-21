@@ -74,3 +74,4 @@
 - Usando Guarda de Rotas: CanActivate
 - Usando Guarda de Rotas: CanActivateChild
 - Usando Guarda de Rotas: CanDeactivate
+- Usando Guarda de Rotas: CanDeactivate com Interface Genérica
