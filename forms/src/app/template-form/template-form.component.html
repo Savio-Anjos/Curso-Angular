@@ -1,4 +1,4 @@
-<form>
+<form #f="ngForm" (ngSubmit)="onSubmit(f)">
   <div class="form-group">
     <label for="nome" class="form-label">Nome</label>
     <input
@@ -7,6 +7,8 @@
       id="nome"
       placeholder="Nome"
       aria-describedby="emailHelp"
+      name="nome"
+      ngModel
     />
   </div>
   <br />
@@ -19,6 +21,8 @@
       id="email"
       placeholder="nome@email.com"
       aria-describedby="emailHelp"
+      name="email"
+      ngModel
     />
   </div>
 
