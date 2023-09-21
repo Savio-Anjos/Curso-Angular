@@ -84,3 +84,4 @@
 
 - Criando o projeto inicial com Bootstrap 3
 - Forms (template driven) Controles ngForm, ngSubmit e ngModel
+- Forms (template driven) Inicializando valores com ngModel (two-way data-binding)

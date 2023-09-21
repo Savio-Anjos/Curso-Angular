@@ -6,7 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./template-form.component.scss'],
 })
 export class TemplateFormComponent {
+  public usuario: any = {
+    nome: 'Savio',
+    email: 'savio@teste.com',
+  };
   public onSubmit(form: any) {
     console.log(form);
+    console.log(this.usuario);
   }
 }
