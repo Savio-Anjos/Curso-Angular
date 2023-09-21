@@ -78,3 +78,4 @@
 - Usando Guarda de Rotas: Resolve: carregando dados antes da rota ser ativada
 - Usando Guarda de Rotas: CanLoad: como não carregar o módulo sem permissão
 - Definindo rota padrão e wildcard (rota não encontrada)
+- Estilo de url: HTML5 ou usando #
