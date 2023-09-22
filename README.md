@@ -80,7 +80,7 @@
 - Definindo rota padrão e wildcard (rota não encontrada)
 - Estilo de url: HTML5 ou usando #
 
-## 📖 Formulário
+## 📖 Formulário (Template Driven)
 
 - Criando o projeto inicial com Bootstrap 3
 - Forms (template driven) Controles ngForm, ngSubmit e ngModel
@@ -91,3 +91,7 @@
 - Forms (template driven) Mostrando mensagens de erro de validação
 - Forms (template driven) Desabilitando o botão de submit para formulário inválido
 - Forms (Dica): Verificando dados do Form no template com JSON
+
+## 📖 Formulário (Data Driven)
+
+- Formulários reativos: Configuração (Módulo e Componente)
