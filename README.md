@@ -86,3 +86,4 @@
 - Forms (template driven) Controles ngForm, ngSubmit e ngModel
 - Forms (template driven) Inicializando valores com ngModel (two-way data-binding)
 - Forms (template driven) Módulos e FormsModule
+- Forms (template driven) Aplicando validação nos campos
