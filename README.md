@@ -88,3 +88,4 @@
 - Forms (template driven) Módulos e FormsModule
 - Forms (template driven) Aplicando validação nos campos
 - Forms (template driven) Aplicando CSS na validação dos campos
+- Forms (template driven) Mostrando mensagens de erro de validação
