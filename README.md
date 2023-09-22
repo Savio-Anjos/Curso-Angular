@@ -89,3 +89,4 @@
 - Forms (template driven) Aplicando validação nos campos
 - Forms (template driven) Aplicando CSS na validação dos campos
 - Forms (template driven) Mostrando mensagens de erro de validação
+- Forms (template driven) Desabilitando o botão de submit para formulário inválido
