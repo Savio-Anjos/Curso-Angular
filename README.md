@@ -87,3 +87,4 @@
 - Forms (template driven) Inicializando valores com ngModel (two-way data-binding)
 - Forms (template driven) Módulos e FormsModule
 - Forms (template driven) Aplicando validação nos campos
+- Forms (template driven) Aplicando CSS na validação dos campos
