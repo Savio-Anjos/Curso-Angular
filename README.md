@@ -96,3 +96,4 @@
 
 - Formulários reativos: Configuração (Módulo e Componente)
 - Formulários reativos: Criando um form com código Angular
+- Formulários reativos: Sincronizando HTML com FormGroup
