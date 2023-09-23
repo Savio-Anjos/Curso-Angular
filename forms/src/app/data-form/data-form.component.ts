@@ -24,5 +24,19 @@ export class DataFormComponent implements OnInit {
     });
   }
 
-  public onSubmit() {}
+  public onSubmit() {
+    this.http.post('https://httpbin.org/post', JSON.stringify({})).subscribe(
+      (dados) => {
+        console.log(dados);
+        // reseta o form
+        // this.formulario.reset();
+        this.resetar();
+      },
+      (error: any) => alert('erro')
+    );
+  }
+
+  public resetar() {
+    this.formulario.reset();
+  }
 }

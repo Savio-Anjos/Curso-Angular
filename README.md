@@ -98,3 +98,4 @@
 - Formulários reativos: Criando um form com código Angular
 - Formulários reativos: Sincronizando HTML com FormGroup
 - Formulários reativos: Fazendo submit
+- Formulários reativos: Resetando o form
