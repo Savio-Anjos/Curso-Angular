@@ -99,3 +99,4 @@
 - Formulários reativos: Sincronizando HTML com FormGroup
 - Formulários reativos: Fazendo submit
 - Formulários reativos: Resetando o form
+- Formulários reativos: Aplicando validação nos campos
