@@ -1,3 +1,4 @@
+import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
 
@@ -9,7 +10,7 @@ import { FormBuilder, FormControl, FormGroup } from '@angular/forms';
 export class DataFormComponent implements OnInit {
   formulario: FormGroup = {} as FormGroup;
 
-  constructor(private formBuilder: FormBuilder) {}
+  constructor(private formBuilder: FormBuilder, private http: HttpClient) {}
 
   public ngOnInit(): void {
     // this.formulario = new FormGroup({
@@ -22,4 +23,6 @@ export class DataFormComponent implements OnInit {
       email: [null],
     });
   }
+
+  public onSubmit() {}
 }
