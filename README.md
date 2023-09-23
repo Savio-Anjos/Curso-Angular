@@ -95,3 +95,4 @@
 ## 📖 Formulário (Data Driven)
 
 - Formulários reativos: Configuração (Módulo e Componente)
+- Formulários reativos: Criando um form com código Angular
