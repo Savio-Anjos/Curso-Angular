@@ -1,10 +1,19 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { CursosService } from '../cursos.service';
+import { Curso } from '../curso';
 
 @Component({
   selector: 'app-cursos-lista',
   templateUrl: './cursos-lista.component.html',
-  styleUrls: ['./cursos-lista.component.scss']
+  styleUrls: ['./cursos-lista.component.scss'],
+  preserveWhitespaces: true,
 })
-export class CursosListaComponent {
+export class CursosListaComponent implements OnInit {
+  public cursos: Curso[] = [];
 
+  constructor(private service: CursosService) {}
+
+  public ngOnInit(): void {
+    this.service.list().subscribe((dados) => (this.cursos = dados));
+  }
 }
