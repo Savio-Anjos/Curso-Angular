@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Curso } from './curso';
-import { Observable, tap } from 'rxjs';
+import { Observable, delay, tap } from 'rxjs';
 import { environment } from 'environments/environment';
 
 @Injectable({
@@ -13,6 +13,6 @@ export class CursosService {
   constructor(private http: HttpClient) {}
 
   public list(): Observable<Curso[]> {
-    return this.http.get<Curso[]>(this.API).pipe(tap(console.log));
+    return this.http.get<Curso[]>(this.API).pipe(delay(2000), tap(console.log));
   }
 }

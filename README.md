@@ -108,3 +108,4 @@
 - Http: Simulando Servidor REST (json-server)
 - Http GET: listar registros
 - Http: Dica: Variável de Ambiente
+- Http GET + Pipe Async
