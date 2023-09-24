@@ -107,3 +107,4 @@
 - Instalando Bootstrap 4
 - Http: Simulando Servidor REST (json-server)
 - Http GET: listar registros
+- Http: Dica: Variável de Ambiente
