@@ -105,3 +105,4 @@
 ## 📖 Http
 
 - Instalando Bootstrap 4
+- Http: Simulando Servidor REST (json-server)
