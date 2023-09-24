@@ -13,6 +13,17 @@
       formControlName="nome"
       required
     />
+
+    <div
+      class="alert alert-danger"
+      role="alert"
+      *ngIf="
+        formulario.controls['nome'].invalid &&
+        formulario.controls['nome'].touched
+      "
+    >
+      Nome é obrigatório
+    </div>
   </div>
   <br />
 
@@ -28,6 +39,17 @@
       required
       email
     />
+
+    <div
+      class="alert alert-danger"
+      role="alert"
+      *ngIf="
+        formulario.controls['email'].invalid &&
+        formulario.controls['email'].touched
+      "
+    >
+      Nome é obrigatório
+    </div>
   </div>
 
   <button type="submit" class="btn btn-primary mt-3 me-3">Submit</button>
