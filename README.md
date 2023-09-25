@@ -111,3 +111,4 @@
 - Http GET + Pipe Async
 - Http + RxJS: Unsubscribe Automático
 - Capturando Erros (+ Erro com async)
+- Erro Http: Alerta de Erro com Bootstrap
