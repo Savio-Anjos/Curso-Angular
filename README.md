@@ -109,3 +109,4 @@
 - Http GET: listar registros
 - Http: Dica: Variável de Ambiente
 - Http GET + Pipe Async
+- Http + RxJS: Unsubscribe Automático
