@@ -118,3 +118,4 @@
 - Http: Editando Cursos e Observables aninhados
 - Http: Editando Cursos + Resolver (Rota)
 - Http PUT Atualizando Cursos
+- Http: Popup de Confirmação para remover Cursos
