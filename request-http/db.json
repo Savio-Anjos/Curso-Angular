@@ -19,6 +19,26 @@
     {
       "nome": "PHP",
       "id": 5
+    },
+    {
+      "nome": "Vue",
+      "id": 6
+    },
+    {
+      "nome": "Python",
+      "id": 7
+    },
+    {
+      "nome": "Ruby",
+      "id": 8
+    },
+    {
+      "nome": "Material ",
+      "id": 9
+    },
+    {
+      "nome": "C++",
+      "id": 10
     }
   ]
 }
