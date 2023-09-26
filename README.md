@@ -116,3 +116,4 @@
 - Http: Criando formulário para criar e editar cursos
 - HTTP POST Criando Cursos
 - Http: Editando Cursos e Observables aninhados
+- Http: Editando Cursos + Resolver (Rota)

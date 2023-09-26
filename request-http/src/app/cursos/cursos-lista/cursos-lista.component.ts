@@ -66,7 +66,7 @@ export class CursosListaComponent implements OnInit {
     //   'Erro ao carregar cursos. Tente novamente mais tarde.';
   }
 
-  onEdit(id: number | string) {
+  onEdit(id: number | string | null) {
     this.router.navigate(['editar', id], { relativeTo: this.route });
   }
 }
