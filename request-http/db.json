@@ -2,7 +2,7 @@
   "cursos": [
     {
       "id": 1,
-      "nome": "Angular"
+      "nome": "Angular 3"
     },
     {
       "nome": "Java",
@@ -47,6 +47,14 @@
     {
       "id": 12,
       "nome": "Ruby "
+    },
+    {
+      "id": 13,
+      "nome": "Angular 13"
+    },
+    {
+      "id": 14,
+      "nome": "Material 2"
     }
   ]
 }
