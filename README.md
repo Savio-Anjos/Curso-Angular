@@ -120,3 +120,4 @@
 - Http PUT Atualizando Cursos
 - Http: Popup de Confirmação para remover Cursos
 - Popup de Confirmação genérica Bootstrap 4 (com RxJS)
+- Http: Serviço Genérico de CRUD

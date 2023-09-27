@@ -1,10 +1,6 @@
 {
   "cursos": [
     {
-      "nome": "Java",
-      "id": 2
-    },
-    {
       "nome": "React",
       "id": 3
     },
@@ -13,8 +9,8 @@
       "id": 4
     },
     {
-      "nome": "Vue",
-      "id": 6
+      "id": 6,
+      "nome": "Vue 2"
     },
     {
       "nome": "Python",
@@ -39,6 +35,14 @@
     {
       "id": 12,
       "nome": "Ruby "
+    },
+    {
+      "id": 13,
+      "nome": "Java"
+    },
+    {
+      "id": 14,
+      "nome": "Node.js"
     }
   ]
 }
