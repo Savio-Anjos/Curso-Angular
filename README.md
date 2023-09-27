@@ -122,3 +122,4 @@
 - Popup de Confirmação genérica Bootstrap 4 (com RxJS)
 - Http: Serviço Genérico de CRUD
 - Upload de Arquivo Formulário Upload com Bootstrap 4
+- Upload de Arquivo: Back-end com Node.js
