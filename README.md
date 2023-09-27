@@ -124,3 +124,4 @@
 - Upload de Arquivo Formulário Upload com Bootstrap 4
 - Upload de Arquivo: Back-end com Node.js
 - Upload de Arquivo: Request com FormData
+- Removendo CORS com Angular Proxy
