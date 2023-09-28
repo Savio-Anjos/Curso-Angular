@@ -126,3 +126,4 @@
 - Upload de Arquivo: Request com FormData
 - Removendo CORS com Angular Proxy
 - Upload Arquivo: Barra de Progresso + Observando Eventos Http
+- Criando operador RxJS customizado
