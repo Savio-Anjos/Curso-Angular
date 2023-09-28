@@ -129,3 +129,4 @@
 - Criando operador RxJS customizado
 - Download de Arquivo
 - Criando tela de pesquisa
+- Http: Passando Parâmetros na URL (HttpParams)
