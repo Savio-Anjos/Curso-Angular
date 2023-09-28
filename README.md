@@ -128,3 +128,4 @@
 - Upload Arquivo: Barra de Progresso + Observando Eventos Http
 - Criando operador RxJS customizado
 - Download de Arquivo
+- Criando tela de pesquisa

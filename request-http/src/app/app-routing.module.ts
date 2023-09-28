@@ -5,7 +5,7 @@ const routes: Routes = [
   {
     path: '',
     pathMatch: 'full',
-    redirectTo: 'upload',
+    redirectTo: 'busca-reativa',
   },
   {
     path: 'cursos',
@@ -25,6 +25,15 @@ const routes: Routes = [
     loadChildren: () =>
       import('./unsubscribe-rxjs/unsubscribe-rxjs.module').then(
         (m) => m.UnsubscribeRxjsModule
+      ),
+  },
+
+  {
+    path: 'busca-reativa',
+
+    loadChildren: () =>
+      import('./reactive-search/reactive-search.module').then(
+        (m) => m.ReactiveSearchModule
       ),
   },
 ];
